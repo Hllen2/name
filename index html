@@ -3,6 +3,15 @@
 <head>
 <title> название </title>
 </head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RDZ88HW4TH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RDZ88HW4TH');
+</script>
 <body>
 <img src = "https://mykaleidoscope.ru/x/uploads/posts/2022-09/1663139161_17-mykaleidoscope-ru-p-zloi-shrek-krasivo-21.jpg">
 </body>
